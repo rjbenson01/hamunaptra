@@ -48,4 +48,5 @@ sql/insert_strings.sql
 build.out
 build.out.prev
 bin/screenlog*
-
+bin/o_screenlog.0.gz
+bin/o_screenlog.1.gz
